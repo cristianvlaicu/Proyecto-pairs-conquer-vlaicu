@@ -47,3 +47,30 @@ main {
 	border-radius: 0.5rem;
 	padding: 0.5rem;
 }
+
+.logos {
+	margin-top: 1rem;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 0.5rem;
+}
+
+.footer__copy {
+	font-size: 1.2rem;
+}
+
+.footer__logo {
+	margin: 0;
+	width: 2rem;
+}
+
+.footer__logo2 {
+	margin: 0;
+	width: 12rem;
+}
+
+.footer__link {
+	text-decoration: none;
+	color: black;
+}
