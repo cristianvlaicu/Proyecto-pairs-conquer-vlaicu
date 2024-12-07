@@ -7,8 +7,7 @@
 
 &nbsp;&nbsp;👉 Los datos del juego, los bloques emparejados y el cronómetro, se almacenan en la memoria local del navegador usado y al refrescar las ventana, se mantiene el estado precedente del juego.
 
-&nbsp;&nbsp;👉 Podeís clonar el repositorio o descargar el archivo zip para así abrirlo con vuestro IDE favorito y lanzarlo con live server por ejemplo; o también podéis clicar directamente en la url de Netlify para que se abra directamente en vuestro navegador el juego:<a target="_blank" href="" ><b></b>
-</a>
+&nbsp;&nbsp;👉 Podeís clonar el repositorio o descargar el archivo zip para así abrirlo con vuestro IDE favorito y lanzarlo con live server por ejemplo; o también podéis clicar directamente en la url de Netlify para que se abra directamente en vuestro navegador el juego: <a target="_blank" href="https://pairs-conquer-vlaicu.netlify.app/" ><b>https://pairs-conquer-vlaicu.netlify.app/</b></a>
 
 &nbsp;&nbsp;👉 Todos los archivos de los códigos de JavaScript están comentados para que se pueda seguir paso a paso la lógica del juego. También agrego dos capturas de pantalla del juego:
 
