@@ -64,7 +64,7 @@ class Game {
 					nOpenBoxes.map((box) => {
 						box.resetColor(); // Reset the color of the box
 					});
-				}, 500); // Delay of 500ms
+				}, 250); // Delay of 250ms
 			}
 		} else {
 			this.arrayBoxesToLocalStorage(); // Save the boxes to localStorage
