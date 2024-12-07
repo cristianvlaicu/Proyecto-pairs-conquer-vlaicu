@@ -9,9 +9,10 @@
 
 &nbsp;&nbsp;👉 Podéis clonar el repositorio o descargar el archivo zip para así abrirlo con vuestro IDE favorito y lanzarlo con live server por ejemplo; o también podéis clicar directamente en la url de Netlify para que se abra directamente en vuestro navegador el juego: <a target="_blank" href="https://pairs-conquer-vlaicu.netlify.app/" ><b>https://pairs-conquer-vlaicu.netlify.app/</b></a>
 
-&nbsp;&nbsp;👉 Todos los archivos de los códigos de JavaScript están comentados para que se pueda seguir paso a paso la lógica del juego. También agrego dos capturas de pantalla del juego:
+&nbsp;&nbsp;👉 Todos los archivos de los códigos de JavaScript están comentados para que se pueda seguir paso a paso la lógica del juego. También agrego tres capturas de pantalla del juego:
 
 <img src="pairs1.png" alt="Descripción" width="700"/>
 <img src="pairs2.png" alt="Descripción" width="700"/>
+<img src="pairs3.png" alt="Descripción" width="700"/>
 
 </p>
