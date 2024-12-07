@@ -1,0 +1,49 @@
+body {
+	background: radial-gradient(
+		circle farthest-corner at center center,
+		rgba(255, 251, 0, 0.233) 0%,
+		rgba(255, 0, 0, 0.219) 80%
+	);
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 90vh;
+	margin: 0;
+}
+
+main {
+	width: 75%;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	color: green;
+}
+
+#boxContainer {
+	padding: 0.5%;
+	display: grid;
+	gap: 0.5rem;
+}
+
+.box {
+	width: 100%;
+	height: 4rem;
+	border: 0.12rem solid black;
+	border-radius: 0.5rem;
+	background-color: black;
+}
+
+.divider {
+	width: 90%;
+	height: 0.5rem;
+	border-radius: 0.5rem;
+	background-color: green;
+}
+
+#reset {
+	background-color: red;
+	color: white;
+	border-radius: 0.5rem;
+	padding: 0.5rem;
+}

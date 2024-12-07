@@ -1,0 +1,16 @@
+{
+	"name": "pairs-conquerblocks-vlaicu",
+	"version": "1.0.0",
+	"description": "Easy game to pair color blocks.",
+	"default": "index.html",
+	"scripts": {
+		"start": "parcel index.html",
+		"build": "parcel build index.html --dist-dir ./dist"
+	},
+	"author": "Cristian Vlaicu Solomon",
+	"license": "ISC",
+	"devDependencies": {
+		"@parcel/transformer-sass": "^2.13.2",
+		"parcel": "^2.13.2"
+	}
+}
