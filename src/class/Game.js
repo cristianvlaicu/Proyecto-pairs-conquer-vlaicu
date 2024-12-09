@@ -206,10 +206,16 @@ class Game {
 			// Prompt the user to enter the number of rows and columns
 			rows = parseInt(prompt("Introduzca el número de filas"));
 			cols = parseInt(prompt("Introduzca el número de columnas"));
-			// Ensure the total number of boxes is even
-			while ((rows * cols) % 2 !== 0) {
+			// Ensure the total number of boxes is even and betweent 1 and 8, both included.
+			while (
+				rows < 1 ||
+				rows > 8 ||
+				cols < 1 ||
+				cols > 8 ||
+				(rows * cols) % 2 !== 0
+			) {
 				alert(
-					"El número de filas y columnas deben ser par. Vuelva a introducir los datos." // Alert if the number of cards is odd
+					"El producto de los números de filas y columnas deben ser par y desde 1 al 8. Vuelva a introducir los datos." // Alert if the number of cards is odd
 				);
 				rows = parseInt(prompt("Introduzca el número de filas")); // Prompt for rows again
 				cols = parseInt(prompt("Introduzca el número de columnas")); // Prompt for columns again
